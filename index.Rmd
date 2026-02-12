@@ -1,9 +1,9 @@
 ---
 title: "Miryam Zamora Jiménez"
-image: "
+image: "Miryam-foto.jpg"
 links:
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Miryamzj"
   - label: Email
     url: "mailto:miryamzj@lcg.unam.mx"
 output:
